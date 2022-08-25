@@ -1,0 +1,3 @@
+[submodule "GameRepo/assets/Tools"]
+	path = GameRepo/assets/Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
